@@ -1,3 +1,3 @@
 # tf_module_example
 
-test
+bare bones example of a rds module
